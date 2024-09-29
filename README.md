@@ -73,16 +73,6 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
    - `delete <filename>`: Delete a file
    - Any other input will be treated as a question for the AI
 
-## Testing
-
-To run the test script:
-
-1. Ensure your virtual environment is activated.
-
-2. Run the test script:
-   ```
-   python test_brain_ai.py
-   ```
 
 ## Contributing
 
