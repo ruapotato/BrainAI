@@ -1,0 +1,57 @@
+David Hamner
+ke7oxh@gmail.com | 541-799-9824 | linkedin.com/in/david-hamner-a1633635
+Summary
+Experienced developer with a strong background in open-source technologies, Linux systems and
+LLMs. Skilled in implementing AI solutions, creating educational content, and developing automated
+systems. Passionate about leveraging AI to solve complex problems and advance open-source projects.
+Skills
+
+AI/ML: LLMs, AI tools, Natural Language Processing
+Programming: Python, Bash, GPL3
+Platforms: Linux, Open Source Technologies
+Tools: Git, Amazon EC2, PyTorch
+Other: 3D modeling, Video production, Networking
+Professional Experience
+Purism SPC: Technical Marketer | February 2020 - Present
+
+Designed and implemented automated testing infrastructure for the Librem 5
+Created technical content showcasing applications in privacy-respecting software and hardware
+Developed 3D models and animations for marketing materials
+Examples of work: https://puri.sm/posts/author/david-hamner/
+Code contributions: https://source.puri.sm/david.hamner
+HackersGame: Content Creator and Developer | February 2017 - Present
+
+Develop and implement AI and LLM solutions for educational content
+Create open-source and AI-focused videos and tutorials on YouTube
+Write and maintain GPL3-licensed code
+Explore and demonstrate practical applications of AI in various domains
+Website: https://www.hackers-game.com/
+Code repository: https://bitbucket.org/hackersgame/
+YouTube channel: https://www.youtube.com/c/hackersgametube
+Finns Wonderland LLC: Open Source Game Developer | March 2024 – July 2024
+• Developed “Drone Adventure,” an open-source game
+• Project repository: https://bitbucket.org/hackersgame/drone-adventureIntel: Test Engineer | December 2016 - January 2020
+• Managed server lab environments
+• Developed scripts for network setup, troubleshooting, and system management
+• Created a Data Center Infrastructure Management tool
+• Tool repository: https://bitbucket.org/hackersgame/inventory
+IdealShape, LLC: IT Support Specialist | August 2015 - December 2016
+• Implemented environment monitoring software
+• Developed Python-based scripts for employee onboarding and offboarding processes
+• Explored applications in custom Linux environments and app deployment
+shout.tv: DevOps Engineer | February 2014 - March 2015
+• Managed VMs in Amazon EC2
+• Developed SaltStack-based deployment automation
+Novell: Suse Linux Technical Support Engineer | July 2012 - February 2014
+• Assisted in diagnosing and resolving critical server issues
+• Provided support for SuSE and RedHat Linux systems
+Education
+• Ongoing self-study and practical application of AI and open-source technologies
+Projects
+• Developed several open-source AI projects (available on my GitHub)
+• https://github.com/ruapotato/Hamnix/
+• https://github.com/ruapotato/VirtWorkForce
+• Vast Open Source contributions:
+• https://bitbucket.org/hackersgame
+• https://source.puri.sm/david.hamner
+• https://github.com/ruapotato
