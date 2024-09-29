@@ -1,0 +1,18 @@
+Keep in mind you need to be in a folder for it to use it as context. Data in PWD and all parent dirs are feed in; not sub folders.
+Example use:
+cd People/David Hamner
+Question: Tell me about David.
+assistant:
+
+David Hamner is a skilled developer with a strong background in open-source technologies, Linux systems, and Large Language Models (LLMs). He has experience in implementing AI solutions, creating educational content, and developing automated systems. David is passionate about leveraging AI to solve complex problems and advance open-source projects.
+
+David's skills include:
+
+* AI/ML: He has expertise in LLMs, AI tools, and Natural Language Processing.
+* Programming: He is proficient in Python, Bash, and GPL3.
+* Platforms: He has experience with Linux and other platforms.
+
+Question: What does he look like?
+assistant:
+
+David Hamner is a young man with short brown hair and brown eyes. He is wearing a black t-shirt and has a neutral expression on his face. He appears to be sitting in front of a green screen, which suggests that he may be recording a video or taking a photo for a presentation or online platform.
